@@ -17,7 +17,6 @@
     "require-dev": {
         "ext-http": "*",
         "barryvdh/laravel-debugbar": "^3.7",
-        "barryvdh/laravel-ide-helper": "^2.12",
         "behat/behat": "^3.13",
         "behat/mink": "^1.8",
         "behat/mink-goutte-driver": "^1.1 || ^2.0",
